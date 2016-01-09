@@ -21,6 +21,7 @@ public class Main {
             System.out.println();
 
         }
-        increase(matrix);
+       increase(matrix); // строки (столбцы) матрицы в порядке возрастания значений
+
     }
 }
